@@ -11,6 +11,6 @@ draft: false
 
 | | | | |
 |-|-|-|-|
-| ![Авторизация](/images/auth.png) | ![Профиль](/images/profile.png) | ![Расписание](/images/schedule.png) | ![Успеваемость](/images/progress.png) |
+| ![Авторизация](/static/images/auth.png) | ![Профиль](/static/images/profile.png) | ![Расписание](/static/images/schedule.png) | ![Успеваемость](/static/images/progress.png) |
 
 [← Вернуться ко всем новостям]({{< ref "/posts/" >}})
