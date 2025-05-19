@@ -1,4 +1,4 @@
 ---
 title: "Новости проекта"
-background: "#f0fff4"
+layout: "single"
 ---
