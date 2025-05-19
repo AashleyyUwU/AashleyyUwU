@@ -1,5 +1,6 @@
 ---
 title: "О проекте"
+layout: "single"
 date: 2024-05-20
 draft: false
 ---
