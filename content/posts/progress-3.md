@@ -16,4 +16,6 @@ draft: false
   <img src="/static/images/progress.png" alt="Успеваемость" width="150">
 </div>
 
+<img src="./auth.png" alt="Авторизация" width="150">
+
 [← Вернуться ко всем новостям]({{< ref "/posts/" >}})
