@@ -13,4 +13,4 @@ draft: false
 |-|-|-|-|
 | ![Авторизация](/images/auth.png) | ![Профиль](/images/profile.png) | ![Расписание](/images/schedule.png) | ![Успеваемость](/images/progress.png) |
 
-[← Вернуться ко всем новостям](/posts/)
+[← Вернуться ко всем новостям]({{< ref "/posts/" >}})
