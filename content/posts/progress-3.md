@@ -9,7 +9,6 @@ draft: false
 - Радактирование страниц под дизайн IOS
 - Итоговый дизайн четырех страниц
 
-![Авторизация](/static/images/auth.png) ![Профиль](/static/images/profile.png)  
-![Расписание](/static/images/schedule.png) ![Успеваемость](/static/images/progress.png)
+![Авторизация](./auth.png)
 
 [← Вернуться ко всем новостям]({{< ref "/posts/" >}})
