@@ -10,15 +10,10 @@ draft: false
 - Итоговый дизайн четырех страниц
 
 <div style="display: flex; gap: 10px;">
-  <img src="/static/images/auth.png" alt="Авторизация" width="150">
-  <img src="/static/images/profile.png" alt="Профиль" width="150">
-  <img src="/static/images/schedule.png" alt="Расписание" width="150">
+  <img src="static/images/auth.png" alt="Авторизация" width="150">
+  <img src="static/images/profile.png" alt="Профиль" width="150">
+  <img src="/static/images/schedula.png" alt="Расписание" width="150">
   <img src="/static/images/progress.png" alt="Успеваемость" width="150">
 </div>
-
-<img src="./auth.png" alt="Авторизация" width="150">
-<img src="./profile.png" alt="Профиль" width="150">
-<img src="./schedule.png" alt="Расписание" width="150">
-<img src="./progress.png" alt="Успеваемость" width="150">
 
 [← Вернуться ко всем новостям]({{< ref "/posts/" >}})
